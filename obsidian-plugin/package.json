@@ -1,0 +1,12 @@
+{
+  "name": "markdown-sync-hub",
+  "version": "0.7.0",
+  "scripts": {
+    "build": "esbuild main.ts --bundle --external:obsidian --format=cjs --platform=browser --outfile=main.js"
+  },
+  "devDependencies": {
+    "esbuild": "latest",
+    "obsidian": "latest",
+    "typescript": "latest"
+  }
+}

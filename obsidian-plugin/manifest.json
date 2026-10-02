@@ -1,0 +1,9 @@
+{
+  "id": "markdown-sync-hub",
+  "name": "Markdown Sync Hub",
+  "version": "0.7.0",
+  "minAppVersion": "1.5.0",
+  "description": "Sync Obsidian with Markdown Sync Hub V7.",
+  "author": "Prototype",
+  "isDesktopOnly": false
+}
